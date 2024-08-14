@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Q0i9ZLXZmwteDjg7mV+Aaw+T7X0un7tldffJ/rLQBixqRQ2nim0F/0Oo5lDukNtK9NNpGJDOFjcIsi+VNgQJkg==",
+  "dgSpecHash": "+M5HJX1g5Sa18OpvfR0u7kSO36Bd/rUroBQ3EO15jXWd3D7R1P2mVHyDsYhBxtra5GG7T6VNnVHTDE+fBJ6nAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\SyntaxAndSyntaxSugarExercise\\SyntaxAndSyntaxSugarExercise\\SyntaxAndSyntaxSugarExercise.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Maria\\Desktop\\Repos\\Syntax-and-Syntax-Sugar-Exercise\\SyntaxAndSyntaxSugarExercise\\SyntaxAndSyntaxSugarExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maria\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Maria\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Maria\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Maria\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
+  ],
   "logs": []
 }
